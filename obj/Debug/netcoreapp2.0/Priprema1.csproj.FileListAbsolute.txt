@@ -1,0 +1,60 @@
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.deps.json
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.runtimeconfig.json
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.runtimeconfig.dev.json
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.dll
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.pdb
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.csprojResolveAssemblyReference.cache
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.csproj.CoreCompileInputs.cache
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.AssemblyInfoInputs.cache
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.AssemblyInfo.cs
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.dll
+C:\Users\Floyd\source\repos\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.pdb
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.deps.json
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.runtimeconfig.json
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.runtimeconfig.dev.json
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.dll
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.pdb
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.csprojResolveAssemblyReference.cache
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.csproj.CoreCompileInputs.cache
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.AssemblyInfoInputs.cache
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.AssemblyInfo.cs
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.dll
+C:\Users\mkelava\Desktop\novo novo\Priprema1\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.pdb
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.deps.json
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.runtimeconfig.json
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.runtimeconfig.dev.json
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.dll
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.pdb
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.csprojResolveAssemblyReference.cache
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.csproj.CoreCompileInputs.cache
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.AssemblyInfoInputs.cache
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.AssemblyInfo.cs
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.dll
+C:\Users\mkelava\Desktop\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.pdb
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.deps.json
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.runtimeconfig.json
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.runtimeconfig.dev.json
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.dll
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.pdb
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.csprojResolveAssemblyReference.cache
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.csproj.CoreCompileInputs.cache
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.AssemblyInfoInputs.cache
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.AssemblyInfo.cs
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.dll
+C:\Users\mkelava\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.pdb
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.deps.json
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.runtimeconfig.json
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.runtimeconfig.dev.json
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.dll
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\bin\Debug\netcoreapp2.0\Priprema1.pdb
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.csproj.CoreCompileInputs.cache
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.AssemblyInfoInputs.cache
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.AssemblyInfo.cs
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.dll
+C:\Users\Marin\Desktop\ponovo ispravak\12.2. backup\Priprema1\Priprema1\obj\Debug\netcoreapp2.0\Priprema1.pdb
